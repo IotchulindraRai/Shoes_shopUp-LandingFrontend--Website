@@ -157,12 +157,12 @@ section .main .button{
 }
 
 section .main .button a{
-    color: white;
+    color: rgb(58, 204, 38);
     text-decoration: none;
 }
 
 section .main .button i{
-    color: white;
+    color: rgb(216, 197, 26);
     margin-left: 5px;
     transition: 0.3s;
 }
@@ -695,7 +695,7 @@ footer{
 
 footer .footer_main{
     width: 100%;
-    background: #f3f1f1;
+    background: #cfd2e2;
     display: flex;
     justify-content: space-around;
 }
@@ -711,12 +711,12 @@ footer .footer_main .tag .center{
 footer .footer_main .tag h1{
     font-size: 25px;
     margin: 25px 0;
-    color: #1c0080;
+    color: #122ddb;
 }
 
 footer .footer_main .tag a{
     display: block;
-    color: black;
+    color: rgb(6, 5, 5);
     text-decoration: none;
     margin: 9px 0;
 }
@@ -757,7 +757,7 @@ footer .footer_main .tag .social_link a .fa-brands{
 }
 
 footer .footer_main .tag .social_link a:hover i{
-    color: white;
+    color: rgb(54, 115, 28);
 }
 
 footer .footer_main .tag .social_link a::after{
